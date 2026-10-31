@@ -87,18 +87,18 @@ jobs:
               continue
             fi
 
-            notes_file="$(mktemp)"
-            cat > "$notes_file" <<EOF
-            A new Self-Hosting Weekly report has been published.
+          notes_file="$(mktemp)"
+          cat > "$notes_file" <<EOF
+          A new Self-Hosting Weekly report has been published.
 
-            Read the report:
-            ${url}
+          Read the report:
+          ${url}
 
-            Source file:
-            - \`${file}\`
-            EOF
+          Source file:
+          - \`${file}\`
+          EOF
 
-            gh release create "$tag" \
-              --title "$title" \
-              --notes-file "$notes_file"
+          gh release create "$tag" \
+            --title "$title" \
+            --notes-file "$notes_file"
           done <<< "${{ steps.reports.outputs.files }}"
