@@ -1,6 +1,6 @@
 # Self-Hosting Weekly
 
-A private archive of weekly reports covering useful self-hosted open-source applications, with an emphasis on productivity, utilities, and practical replacements for paid SaaS.
+An archive of weekly reports covering useful self-hosted open-source applications, with an emphasis on productivity, utilities, and practical replacements for paid SaaS.
 
 ## Editions
 
