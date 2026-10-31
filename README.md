@@ -17,10 +17,15 @@ A private archive of weekly reports covering useful self-hosted open-source appl
 
 ## Image policy
 
-Images used in the Markdown reports are stored in this repository under `assets/YYYY-MM-DD/` when practical. Prefer an upstream project screenshot; use an upstream logo or another representative project image when the screenshot is unavailable through the source repository.
-
-This keeps the archive readable directly on GitHub without depending on external image URLs remaining stable.
+Report images are hotlinked from their upstream project repositories or official project-hosted assets when practical. Third-party images are not included in this repository's license and remain subject to their original owners' terms.
 
 ## Curation direction
 
 The first edition was intentionally broad and ended up too infrastructure-heavy. Beginning with Edition #2, the report shifted toward roughly 70–80% productivity, personal utilities, and direct SaaS replacements, with homelab infrastructure kept to a minority unless a project is unusually compelling.
+
+
+## License
+
+The original report text and editorial content in this repository are licensed under the [Creative Commons Attribution 4.0 International License](./LICENSE).
+
+Third-party project names, trademarks, logos, screenshots, and other linked assets are excluded from this license and remain the property of their respective owners.
