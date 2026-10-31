@@ -4,16 +4,16 @@ A private archive of weekly reports covering useful self-hosted open-source appl
 
 ## Editions
 
-- [2026-10-30 — Edition #10](./2026-10-30.md)
-- [2026-10-23 — Edition #9](./2026-10-23.md)
-- [2026-10-16 — Edition #8](./2026-10-16.md)
-- [2026-10-09 — Edition #7](./2026-10-09.md)
-- [2026-10-02 — Edition #6](./2026-10-02.md)
-- [2026-09-25 — Edition #5](./2026-09-25.md)
-- [2026-09-18 — Edition #4](./2026-09-18.md)
-- [2026-09-11 — Edition #3](./2026-09-11.md)
-- [2026-09-04 — Edition #2](./2026-09-04.md)
-- [2026-08-28 — Edition #1](./2026-08-28.md)
+- [2026-10-30 — Edition #10](./reports/2026-10-30.md)
+- [2026-10-23 — Edition #9](./reports/2026-10-23.md)
+- [2026-10-16 — Edition #8](./reports/2026-10-16.md)
+- [2026-10-09 — Edition #7](./reports/2026-10-09.md)
+- [2026-10-02 — Edition #6](./reports/2026-10-02.md)
+- [2026-09-25 — Edition #5](./reports/2026-09-25.md)
+- [2026-09-18 — Edition #4](./reports/2026-09-18.md)
+- [2026-09-11 — Edition #3](./reports/2026-09-11.md)
+- [2026-09-04 — Edition #2](./reports/2026-09-04.md)
+- [2026-08-28 — Edition #1](./reports/2026-08-28.md)
 
 ## Image policy
 
