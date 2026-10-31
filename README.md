@@ -5,6 +5,14 @@
 
 An archive of weekly reports covering useful self-hosted open-source applications, with an emphasis on productivity, utilities, and practical replacements for paid SaaS.
 
+## Subscribe — completely free
+
+Want the next report without having to remember to check back? Click **Watch** at the top of this repository, choose **Custom**, and enable **Releases**. Each new weekly report is published as a GitHub Release, so GitHub can notify you when a new edition lands without subscribing you to every commit, issue, or repository change.
+
+There is **no paid subscription**, and nobody sponsors a report or pays to be included. Projects earn a spot because they look useful, interesting, active, or unusually relevant—not because money changed hands.
+
+And, for transparency: **these reports are generated with AI**. I'm letting the robots handle the weekly digging. I set the curation rules and priorities; AI does the research, comparison, and drafting.
+
 ## Editions
 
 - [2026-10-30 — Edition #10](./reports/2026-10-30.md)
