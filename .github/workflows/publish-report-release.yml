@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'reports/20??-??-??.md'
+      - 'reports/20*.md'
   workflow_dispatch:
     inputs:
       report_file:
