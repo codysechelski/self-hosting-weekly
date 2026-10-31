@@ -1,5 +1,8 @@
 # Self-Hosting Weekly
 
+[![Publish report release](https://github.com/codysechelski/self-hosting-weekly/actions/workflows/publish-report-release.yml/badge.svg)](https://github.com/codysechelski/self-hosting-weekly/actions/workflows/publish-report-release.yml)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](./LICENSE)
+
 An archive of weekly reports covering useful self-hosted open-source applications, with an emphasis on productivity, utilities, and practical replacements for paid SaaS.
 
 ## Editions
