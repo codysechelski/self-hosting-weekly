@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'reports/20*.md'
+      - '.github/workflows/publish-report-release.yml'
   workflow_dispatch:
     inputs:
       report_file:
