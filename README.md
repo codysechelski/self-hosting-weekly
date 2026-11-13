@@ -15,6 +15,7 @@ And, for transparency: **these reports are generated with AI**. I'm letting the 
 
 ## Editions
 
+- [2026-11-13 — Edition #12](./reports/2026-11-13.md)
 - [2026-11-06 — Edition #11](./reports/2026-11-06.md)
 - [2026-10-30 — Edition #10](./reports/2026-10-30.md)
 - [2026-10-23 — Edition #9](./reports/2026-10-23.md)
