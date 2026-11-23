@@ -7,6 +7,9 @@ An archive of weekly reports covering useful self-hosted open-source application
 
 ## Subscribe — completely free
 
+> [!TIP]
+> Each weekly report is just a GitHub Release, so you can set up a watch for it.
+
 Want the next report without having to remember to check back? Click **Watch** at the top of this repository, choose **Custom**, and enable **Releases**. Each new weekly report is published as a GitHub Release, so GitHub can notify you when a new edition lands without subscribing you to every commit, issue, or repository change.
 
 ![Subscribing to new reports: Watch → Custom → Releases → Apply](./assets/subscribe-releases.gif)
