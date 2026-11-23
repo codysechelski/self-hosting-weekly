@@ -43,6 +43,16 @@ Report images are hotlinked from their upstream project repositories or official
 The first edition was intentionally broad and ended up too infrastructure-heavy. Beginning with Edition #2, the report shifted toward roughly 70–80% productivity, personal utilities, and direct SaaS replacements, with homelab infrastructure kept to a minority unless a project is unusually compelling.
 
 
+## Support the robots
+
+These reports are compiled by robots. The robots are tireless, thorough, and weirdly enthusiastic about Docker Compose files. The robots are also not free: every edition burns through a pile of AI tokens, and the token bill lands on my desk, not theirs.
+
+If a report saved you from a SaaS subscription (or just pointed you at something fun to self-host this weekend), you can chip in for the tokens and keep the robots working.
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/codysechelski)
+
+Totally optional. Reports stay free for everyone, and supporting never affects which projects get included.
+
 ## License
 
 The original report text and editorial content in this repository are licensed under the [Creative Commons Attribution 4.0 International License](./LICENSE).
