@@ -9,6 +9,8 @@ An archive of weekly reports covering useful self-hosted open-source application
 
 Want the next report without having to remember to check back? Click **Watch** at the top of this repository, choose **Custom**, and enable **Releases**. Each new weekly report is published as a GitHub Release, so GitHub can notify you when a new edition lands without subscribing you to every commit, issue, or repository change.
 
+![Subscribing to new reports: Watch → Custom → Releases → Apply](./assets/subscribe-releases.gif)
+
 There is **no paid subscription**, and nobody sponsors a report or pays to be included. Projects earn a spot because they look useful, interesting, active, or unusually relevant—not because money changed hands.
 
 And, for transparency: **these reports are generated with AI**. I'm letting the robots handle the weekly digging. I set the curation rules and priorities; AI does the research, comparison, and drafting.
