@@ -30,6 +30,7 @@ Totally optional. Reports stay free for everyone, and supporting never affects w
 
 ## Editions
 
+- [2026-11-27 — Edition #14](./reports/2026-11-27.md)
 - [2026-11-20 — Edition #13](./reports/2026-11-20.md)
 - [2026-11-13 — Edition #12](./reports/2026-11-13.md)
 - [2026-11-06 — Edition #11](./reports/2026-11-06.md)
